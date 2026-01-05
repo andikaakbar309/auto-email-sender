@@ -1,7 +1,6 @@
-# Auto Email Sender – Laravel Scheduled Reminder (MVP)
+# Auto Email Sender
 
-Aplikasi Laravel sederhana untuk mengirim **email otomatis berdasarkan jadwal**.  
-Digunakan sebagai simulasi sistem reminder penagihan (retensi, kontrak, dll).
+Auto Email sederhana
 
 ---
 
@@ -15,11 +14,10 @@ Pastikan sudah ter-install:
 
 ---
 
-## 🚀 Cara Menjalankan Project (Setelah Clone)
+## 🚀 After Clone
 
 ### Clone Repository
 ```bash
-# git clone https://github.com/andikaakbar309/auto-email-sender.git
 # cd auto-email-sender
 
 # composer install

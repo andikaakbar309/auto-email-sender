@@ -9,7 +9,7 @@ Pastikan sudah ter-install:
 - PHP >= 8.2
 - Composer
 - Node.js & NPM
-- MySQL / MariaDB
+- MySQL
 - Git
 
 ---
